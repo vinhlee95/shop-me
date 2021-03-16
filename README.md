@@ -30,3 +30,9 @@ Install dependencies
 ```shell
 pip install django
 ```
+Run migration and run server
+```shell
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+```
