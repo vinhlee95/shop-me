@@ -1,0 +1,612 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.56.9 76e5016d",
+  "osm3s": {
+    "timestamp_osm_base": "2021-03-17T04:12:45Z",
+    "timestamp_areas_base": "2021-03-17T03:12:15Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 382088960,
+      "lat": 60.2289814,
+      "lon": 24.8133125,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Spice Garden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 662749263,
+      "lat": 60.2232512,
+      "lon": 24.8122559,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Ravintola Alberga"
+      }
+    },
+    {
+      "type": "node",
+      "id": 662897378,
+      "lat": 60.2222535,
+      "lon": 24.8134671,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "nepalese",
+        "name": "Kathmandu Palace",
+        "opening_hours": "Mo-Th 11:00-22:00; Fr 11:00-22:30; Sa,Su 12:00-22:30",
+        "website": "http://www.kathmandupalace.fi/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 694274931,
+      "lat": 60.2181436,
+      "lon": 24.8099918,
+      "tags": {
+        "addr:city": "Espoo",
+        "addr:housename": "Sello",
+        "addr:housenumber": "3-9",
+        "addr:postcode": "02600",
+        "addr:street": "Leppävaarankatu",
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "level": "2",
+        "name": "Fuku Supreme",
+        "opening_hours": "Mo-Th 11:00-15:00,17:00-21:00; Fr 11:00-15:00,17:00-22:00; Sa 12:00-22:00; Su 12:00-18:00",
+        "phone": "+358 10 50 111 77",
+        "website": "http://www.fukusupreme.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 694275116,
+      "lat": 60.2176128,
+      "lon": 24.8126558,
+      "tags": {
+        "addr:city": "Espoo",
+        "addr:housename": "Sello",
+        "addr:housenumber": "1",
+        "addr:postcode": "02600",
+        "addr:street": "Leppävaarankatu",
+        "amenity": "restaurant",
+        "cuisine": "grill",
+        "email": "grillkitchen@glohotels.fi",
+        "level": "1",
+        "name": "GLO Grill Kitchen",
+        "opening_hours": "Mo-Fr 07:00-10:00; Sa,Su 07:30-10:30",
+        "phone": "+358 9 5840 9710",
+        "website": "https://www.glohotels.fi/hotellit/glo-sello/ravintola/glo-grill-kitchen/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1232504589,
+      "lat": 60.2252448,
+      "lon": 24.8199363,
+      "tags": {
+        "amenity": "restaurant",
+        "name": "Huivi",
+        "website": "https://www.ravintolahuivi.fi/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1298622510,
+      "lat": 60.216866,
+      "lon": 24.810667,
+      "tags": {
+        "addr:city": "Espoo",
+        "addr:housenumber": "10",
+        "addr:postcode": "02600",
+        "addr:street": "Leppävaarankatu",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Curry Palace",
+        "phone": "095483751",
+        "website": "http://www.currypalace.fi/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1613063172,
+      "lat": 60.2177782,
+      "lon": 24.8121754,
+      "tags": {
+        "addr:city": "Espoo",
+        "addr:housename": "Sello",
+        "addr:housenumber": "3-9",
+        "addr:postcode": "02600",
+        "addr:street": "Leppävaarankatu",
+        "amenity": "restaurant",
+        "email": "base@ravintolabase.fi",
+        "level": "1",
+        "name": "Ravintola Base",
+        "opening_hours": "Mo-Th 10:00-24:00; Fr 10:00-02:00; Sa 12:00-02:00; Su 12:00-19:00",
+        "phone": "+358 9 5123 6060",
+        "website": "https://www.ravintolabase.fi/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1993325575,
+      "lat": 60.2121935,
+      "lon": 24.817907,
+      "tags": {
+        "addr:city": "Espoo",
+        "addr:housenumber": "16",
+        "addr:postcode": "02600",
+        "addr:street": "Lars Sonckin kaari",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "Ravintola Terra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2315603765,
+      "lat": 60.2205417,
+      "lon": 24.8127933,
+      "tags": {
+        "addr:housenumber": "3",
+        "addr:street": "Läkkisepänkuja",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Pizza Cornar",
+        "website": "https://pizzacornar.pizza-online.fi/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2319271707,
+      "lat": 60.2108712,
+      "lon": 24.8183141,
+      "tags": {
+        "addr:city": "Espoo",
+        "addr:housenumber": "10",
+        "addr:postcode": "02600",
+        "addr:street": "Lars Sonckin kaari",
+        "amenity": "restaurant",
+        "cuisine": "international",
+        "name": "Nova Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2425519716,
+      "lat": 60.2182662,
+      "lon": 24.8116376,
+      "tags": {
+        "addr:city": "Espoo",
+        "addr:housename": "Sello",
+        "addr:housenumber": "3-9",
+        "addr:postcode": "02600",
+        "addr:street": "Leppävaarankatu",
+        "amenity": "restaurant",
+        "cuisine": "american",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "email": "chicos.sello@sok.fi",
+        "level": "2",
+        "name": "Chico's",
+        "opening_hours": "Mo-Fr 10:00-21:00, Sa 10:00-20:00, 11:00-18:00",
+        "phone": "+358 10 766 4490",
+        "website": "https://www.raflaamo.fi/fi/espoo/chicos-sello/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2971198128,
+      "lat": 60.2249921,
+      "lon": 24.8119022,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "name": "Teidän Sushi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2979131903,
+      "lat": 60.2220088,
+      "lon": 24.8135062,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "City Bamboo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3017556255,
+      "lat": 60.2212467,
+      "lon": 24.8156743,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "persian",
+        "name": "Vihreä Ravintola",
+        "website": "http://www.persianravintola.fi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4470130106,
+      "lat": 60.2183088,
+      "lon": 24.8085974,
+      "tags": {
+        "addr:city": "Espoo",
+        "addr:housename": "Sello",
+        "addr:housenumber": "3-9",
+        "addr:postcode": "02600",
+        "addr:street": "Leppävaarankatu",
+        "amenity": "restaurant",
+        "cuisine": "italian",
+        "email": "sello@ilgabbiano.fi",
+        "level": "2",
+        "name": "Il Gabbiano",
+        "opening_hours": "Mo-Th 11:00-21:00; Fr 11:00-22:00; Sa 12:00-22:00; Su 12:00-20:00",
+        "phone": "+358 10 839 4020",
+        "website": "https://www.ilgabbiano.fi/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4805691700,
+      "lat": 60.2271293,
+      "lon": 24.8240264,
+      "tags": {
+        "addr:city": "Espoo",
+        "addr:housenumber": "9",
+        "addr:postcode": "02650",
+        "addr:street": "Vallikallionkatu",
+        "amenity": "restaurant",
+        "name": "Shell HelmiSimpukka Espoo Vallikallio",
+        "opening_hours": "24/7",
+        "website": "https://www.shellhelmisimpukka.fi/espoo-vallikallio"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6000914867,
+      "lat": 60.2182791,
+      "lon": 24.8079619,
+      "tags": {
+        "addr:city": "Espoo",
+        "addr:housename": "Sello",
+        "addr:housenumber": "3",
+        "addr:postcode": "02600",
+        "addr:street": "Ratsukatu",
+        "amenity": "restaurant",
+        "cuisine": "barbecue",
+        "email": "info@smokers.fi",
+        "level": "2",
+        "name": "Smokers",
+        "opening_hours": "Mo-Th 11:00-21:00; Fr 11:00-22:00; Sa 12:00-22:00; Su 12:00-20:00",
+        "phone": "+358 10 839 4000",
+        "takeaway": "no",
+        "website": "https://www.smokers.fi"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6090324788,
+      "lat": 60.2187026,
+      "lon": 24.8136789,
+      "tags": {
+        "addr:city": "Espoo",
+        "addr:housename": "Sello",
+        "addr:housenumber": "3-9",
+        "addr:postcode": "02600",
+        "addr:street": "Leppävaarankatu",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "email": "saffron.ravintola@gmail.com",
+        "level": "1",
+        "name": "Saffron",
+        "opening_hours": "Mo-Fr 07:20-21:00; Sa 07:30-20:00; Su 10:30-18:00",
+        "phone": "+358 46 594 6949"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6090324791,
+      "lat": 60.2185853,
+      "lon": 24.8108686,
+      "tags": {
+        "addr:city": "Espoo",
+        "addr:housename": "Sello",
+        "addr:housenumber": "3-9",
+        "addr:postcode": "02600",
+        "addr:street": "Leppävaarankatu",
+        "amenity": "restaurant",
+        "cuisine": "western;pizza",
+        "level": "1",
+        "name": "4Chiefs Saloon",
+        "opening_hours": "Su-Th 09-01:00; Fr-Sa 09-02:00",
+        "phone": "+358 10 2009960",
+        "website": "https://www.facebook.com/4Chiefs/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6090324792,
+      "lat": 60.2183041,
+      "lon": 24.8127119,
+      "tags": {
+        "addr:city": "Espoo",
+        "addr:housename": "Sello",
+        "addr:housenumber": "3-9",
+        "addr:postcode": "02600",
+        "addr:street": "Leppävaarankatu",
+        "amenity": "restaurant",
+        "brand": "Rax",
+        "email": "sello.rax@restel.fi",
+        "level": "3",
+        "name": "Rax Buffet",
+        "opening_hours": "Mo-Fr 10:30-21:00; Sa 11:00-20:00; Su 11:00-18:00",
+        "phone": "+358 20 766 4932",
+        "website": "https://www.rax.fi/ravintolat/espoo-sello/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6090324809,
+      "lat": 60.2182818,
+      "lon": 24.8117863,
+      "tags": {
+        "access:covid19": "no",
+        "addr:city": "Espoo",
+        "addr:housename": "Sello",
+        "addr:housenumber": "3-9",
+        "addr:postcode": "02600",
+        "addr:street": "Leppävaarankatu",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "delivery:covid19": "no",
+        "drive_through:covid19": "no",
+        "level": "3",
+        "name": "Mandarin Palace",
+        "opening_hours": "Mo-Fr 10:30-21:00; Sa 11:00-20:00; Su 12:00-18:00",
+        "opening_hours:covid19": "Mo-Fr 10:30-21:00; Sa 11:00-20:00; Su 12:00-18:00",
+        "phone": "+358 9 878 6889",
+        "takeaway:covid19": "yes",
+        "website": "http://www.mandarinpalace.fi/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6090324811,
+      "lat": 60.2183091,
+      "lon": 24.8084842,
+      "tags": {
+        "addr:city": "Espoo",
+        "addr:housename": "Sello",
+        "addr:postcode": "02600",
+        "addr:street": "Sellonaukio",
+        "amenity": "restaurant",
+        "cuisine": "thai;malysian",
+        "level": "2",
+        "name": "Lime Leaf",
+        "opening_hours": "Mo-Fr 10:00-21:00; Sa 09:00-18:00; Su 12:00-18:00",
+        "phone": "+358 9 853 1177",
+        "website": "https://www.limerestaurants.fi/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6090324832,
+      "lat": 60.2181203,
+      "lon": 24.8111689,
+      "tags": {
+        "addr:city": "Espoo",
+        "addr:housename": "Sello",
+        "addr:housenumber": "3-9",
+        "addr:postcode": "02600",
+        "addr:street": "Leppävaarankatu",
+        "amenity": "restaurant",
+        "cuisine": "sushi",
+        "email": "sello@hankosushi.fi",
+        "level": "1",
+        "name": "Hanko Sushi",
+        "opening_hours": "Mo-Fr 11:00-21:00; Sa 11:00-19:00; Su 12:00-18:00",
+        "phone": "+358 50 358 5604",
+        "website": "http://www.hankosushi.fi/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6090324860,
+      "lat": 60.2183592,
+      "lon": 24.8116683,
+      "tags": {
+        "addr:city": "Espoo",
+        "addr:housename": "Sello",
+        "addr:housenumber": "3-9",
+        "addr:postcode": "02600",
+        "addr:street": "Leppävaarankatu",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "email": "info@classicpizza.fi",
+        "level": "3",
+        "name": "Classic Pizza",
+        "opening_hours": "Mo-Fr 10:30-21:00; Sa 10:00-19:00; Su 12:00-18:00",
+        "phone": "+358 44 033 7601",
+        "website": "https://www.classicpizza.fi/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6430677620,
+      "lat": 60.2168712,
+      "lon": 24.8096226,
+      "tags": {
+        "addr:city": "Espoo",
+        "addr:housenumber": "12",
+        "addr:postcode": "02600",
+        "addr:street": "Leppävaarankatu",
+        "amenity": "restaurant",
+        "cuisine": "asian",
+        "name": "Luckiefun's Restaurant",
+        "opening_hours": "Mo-Fr 10:30-21:00; Sa-Su 12:00-21:00",
+        "outdoor_seating": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6464914978,
+      "lat": 60.2158085,
+      "lon": 24.8446804,
+      "tags": {
+        "amenity": "restaurant",
+        "cuisine": "lunch;coffee",
+        "name": "Tallitupa",
+        "opening_hours": "Mo-Sa 08:00-14:00",
+        "website": "https://www.vermo.fi/vermo-areena/ravintolapalvelut/tallitupa.html"
+      }
+    },
+    {
+      "type": "way",
+      "id": 108721773,
+      "nodes": [
+        1246591462,
+        1836544851,
+        1836544854,
+        6814208687,
+        1836544852,
+        1836544850,
+        1246591409,
+        1246591200,
+        1836544846,
+        1836544844,
+        1836544845,
+        1836544847,
+        1246591341,
+        1836544848,
+        1836544849,
+        1836544855,
+        1836544853,
+        1246591462
+      ],
+      "tags": {
+        "addr:city": "Espoo",
+        "addr:housenumber": "10",
+        "addr:postcode": "02650",
+        "addr:street": "Laturinkuja",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Peroba Cafe",
+        "start_date": "before 1971",
+        "website": "http://www.perobacafe.fi/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1246591200,
+      "lat": 60.2226859,
+      "lon": 24.8168314
+    },
+    {
+      "type": "node",
+      "id": 1246591341,
+      "lat": 60.222753,
+      "lon": 24.8165768
+    },
+    {
+      "type": "node",
+      "id": 1246591409,
+      "lat": 60.2227793,
+      "lon": 24.816931
+    },
+    {
+      "type": "node",
+      "id": 1246591462,
+      "lat": 60.2228463,
+      "lon": 24.8166764
+    },
+    {
+      "type": "node",
+      "id": 1836544844,
+      "lat": 60.2226932,
+      "lon": 24.816718
+    },
+    {
+      "type": "node",
+      "id": 1836544845,
+      "lat": 60.2227114,
+      "lon": 24.8166489
+    },
+    {
+      "type": "node",
+      "id": 1836544846,
+      "lat": 60.2227108,
+      "lon": 24.8167368
+    },
+    {
+      "type": "node",
+      "id": 1836544847,
+      "lat": 60.222729,
+      "lon": 24.8166677
+    },
+    {
+      "type": "node",
+      "id": 1836544848,
+      "lat": 60.2227988,
+      "lon": 24.8166257
+    },
+    {
+      "type": "node",
+      "id": 1836544849,
+      "lat": 60.2228154,
+      "lon": 24.8165627
+    },
+    {
+      "type": "node",
+      "id": 1836544850,
+      "lat": 60.2228036,
+      "lon": 24.8168386
+    },
+    {
+      "type": "node",
+      "id": 1836544851,
+      "lat": 60.2228217,
+      "lon": 24.8167698
+    },
+    {
+      "type": "node",
+      "id": 1836544852,
+      "lat": 60.222826,
+      "lon": 24.8168625
+    },
+    {
+      "type": "node",
+      "id": 1836544853,
+      "lat": 60.2228391,
+      "lon": 24.8166687
+    },
+    {
+      "type": "node",
+      "id": 1836544854,
+      "lat": 60.2228441,
+      "lon": 24.8167937
+    },
+    {
+      "type": "node",
+      "id": 1836544855,
+      "lat": 60.2228556,
+      "lon": 24.8166057
+    },
+    {
+      "type": "node",
+      "id": 6814208687,
+      "lat": 60.2228375,
+      "lon": 24.8168188
+    }
+  ]
+}
