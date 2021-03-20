@@ -5,6 +5,10 @@
     <form class="site-form" action="{% url 'login' %}" method="post">
         {% csrf_token %}
         {{ form }}
+
+        {%if error %}
+            <span class="error-message">{{error}}</span>
+        {% endif %}
         <input type="submit" value="Login" />
     </form>
 {% endblock %}

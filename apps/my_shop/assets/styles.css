@@ -30,3 +30,7 @@ input[type="password"] {
     padding: .4rem .8rem;
     border-radius: 4px;
 }
+
+.error-message {
+    color: red;
+}
