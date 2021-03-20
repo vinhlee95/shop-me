@@ -1,11 +1,15 @@
 import logging
 from django.shortcuts import render
+from django.contrib.auth.decorators import login_required
+from django.contrib.auth.forms import AuthenticationForm
 from django.contrib.gis.db.models.functions import Distance
 
 from .models import Shop
 
 
+@login_required(login_url="/login")
 def list_all_shops(request):
+    print(request.user)
     context = {}
     try:
         home_location = Shop.objects.get(name='Home')
@@ -24,3 +28,10 @@ def list_all_shops(request):
     context['shops'] = shops
 
     return render(request, 'home.html', context)
+
+
+def login_view(request):
+    if request.method == "GET":
+        form = AuthenticationForm()
+        return render(request, 'login.html', {"form": form})
+
